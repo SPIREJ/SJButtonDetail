@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		09EB53401C473A0700F5A4B6 /* BtnSortViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 09EB533F1C473A0700F5A4B6 /* BtnSortViewController.m */; };
+		09EB53441C473C2F00F5A4B6 /* UIView+LBExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 09EB53431C473C2F00F5A4B6 /* UIView+LBExtension.m */; };
 		09F194851C4631B100173C88 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 09F194841C4631B100173C88 /* main.m */; };
 		09F194881C4631B100173C88 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 09F194871C4631B100173C88 /* AppDelegate.m */; };
 		09F1948B1C4631B100173C88 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 09F1948A1C4631B100173C88 /* ViewController.m */; };
@@ -15,6 +17,11 @@
 		09F194931C4631B100173C88 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 09F194911C4631B100173C88 /* LaunchScreen.storyboard */; };
 		09F1949E1C4631B100173C88 /* SJButtonDetailTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 09F1949D1C4631B100173C88 /* SJButtonDetailTests.m */; };
 		09F194A91C4631B100173C88 /* SJButtonDetailUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 09F194A81C4631B100173C88 /* SJButtonDetailUITests.m */; };
+		09F194BA1C463C3B00173C88 /* imgAanBtnViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 09F194B81C463C3B00173C88 /* imgAanBtnViewController.m */; };
+		09F194BB1C463C3B00173C88 /* imgAanBtnViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 09F194B91C463C3B00173C88 /* imgAanBtnViewController.xib */; };
+		09F194BE1C46400C00173C88 /* CodeImgBtnViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 09F194BD1C46400C00173C88 /* CodeImgBtnViewController.m */; };
+		09F194C11C46540C00173C88 /* BtnTypeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 09F194C01C46540C00173C88 /* BtnTypeViewController.m */; };
+		09F194C41C465D9F00173C88 /* BtnShuXingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 09F194C31C465D9F00173C88 /* BtnShuXingViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +42,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		09EB533E1C473A0700F5A4B6 /* BtnSortViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BtnSortViewController.h; sourceTree = "<group>"; };
+		09EB533F1C473A0700F5A4B6 /* BtnSortViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BtnSortViewController.m; sourceTree = "<group>"; };
+		09EB53421C473C2F00F5A4B6 /* UIView+LBExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+LBExtension.h"; sourceTree = "<group>"; };
+		09EB53431C473C2F00F5A4B6 /* UIView+LBExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+LBExtension.m"; sourceTree = "<group>"; };
 		09F194801C4631B100173C88 /* SJButtonDetail.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SJButtonDetail.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		09F194841C4631B100173C88 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		09F194861C4631B100173C88 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -51,6 +62,15 @@
 		09F194A41C4631B100173C88 /* SJButtonDetailUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SJButtonDetailUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		09F194A81C4631B100173C88 /* SJButtonDetailUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SJButtonDetailUITests.m; sourceTree = "<group>"; };
 		09F194AA1C4631B100173C88 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		09F194B71C463C3B00173C88 /* imgAanBtnViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = imgAanBtnViewController.h; sourceTree = "<group>"; };
+		09F194B81C463C3B00173C88 /* imgAanBtnViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = imgAanBtnViewController.m; sourceTree = "<group>"; };
+		09F194B91C463C3B00173C88 /* imgAanBtnViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = imgAanBtnViewController.xib; sourceTree = "<group>"; };
+		09F194BC1C46400C00173C88 /* CodeImgBtnViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CodeImgBtnViewController.h; sourceTree = "<group>"; };
+		09F194BD1C46400C00173C88 /* CodeImgBtnViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CodeImgBtnViewController.m; sourceTree = "<group>"; };
+		09F194BF1C46540C00173C88 /* BtnTypeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BtnTypeViewController.h; sourceTree = "<group>"; };
+		09F194C01C46540C00173C88 /* BtnTypeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BtnTypeViewController.m; sourceTree = "<group>"; };
+		09F194C21C465D9F00173C88 /* BtnShuXingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BtnShuXingViewController.h; sourceTree = "<group>"; };
+		09F194C31C465D9F00173C88 /* BtnShuXingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BtnShuXingViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +98,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		09EB53411C473C2F00F5A4B6 /* Category */ = {
+			isa = PBXGroup;
+			children = (
+				09EB53421C473C2F00F5A4B6 /* UIView+LBExtension.h */,
+				09EB53431C473C2F00F5A4B6 /* UIView+LBExtension.m */,
+			);
+			path = Category;
+			sourceTree = "<group>";
+		};
 		09F194771C4631B100173C88 = {
 			isa = PBXGroup;
 			children = (
@@ -101,6 +130,7 @@
 		09F194821C4631B100173C88 /* SJButtonDetail */ = {
 			isa = PBXGroup;
 			children = (
+				09F194B61C463C0500173C88 /* Classes */,
 				09F194861C4631B100173C88 /* AppDelegate.h */,
 				09F194871C4631B100173C88 /* AppDelegate.m */,
 				09F194891C4631B100173C88 /* ViewController.h */,
@@ -138,6 +168,25 @@
 				09F194AA1C4631B100173C88 /* Info.plist */,
 			);
 			path = SJButtonDetailUITests;
+			sourceTree = "<group>";
+		};
+		09F194B61C463C0500173C88 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				09EB53411C473C2F00F5A4B6 /* Category */,
+				09F194B71C463C3B00173C88 /* imgAanBtnViewController.h */,
+				09F194B81C463C3B00173C88 /* imgAanBtnViewController.m */,
+				09F194B91C463C3B00173C88 /* imgAanBtnViewController.xib */,
+				09F194BC1C46400C00173C88 /* CodeImgBtnViewController.h */,
+				09F194BD1C46400C00173C88 /* CodeImgBtnViewController.m */,
+				09F194BF1C46540C00173C88 /* BtnTypeViewController.h */,
+				09F194C01C46540C00173C88 /* BtnTypeViewController.m */,
+				09F194C21C465D9F00173C88 /* BtnShuXingViewController.h */,
+				09F194C31C465D9F00173C88 /* BtnShuXingViewController.m */,
+				09EB533E1C473A0700F5A4B6 /* BtnSortViewController.h */,
+				09EB533F1C473A0700F5A4B6 /* BtnSortViewController.m */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -243,6 +292,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				09F194BB1C463C3B00173C88 /* imgAanBtnViewController.xib in Resources */,
 				09F194931C4631B100173C88 /* LaunchScreen.storyboard in Resources */,
 				09F194901C4631B100173C88 /* Assets.xcassets in Resources */,
 				09F1948E1C4631B100173C88 /* Main.storyboard in Resources */,
@@ -270,8 +320,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				09F194BA1C463C3B00173C88 /* imgAanBtnViewController.m in Sources */,
+				09F194C11C46540C00173C88 /* BtnTypeViewController.m in Sources */,
+				09F194C41C465D9F00173C88 /* BtnShuXingViewController.m in Sources */,
 				09F1948B1C4631B100173C88 /* ViewController.m in Sources */,
 				09F194881C4631B100173C88 /* AppDelegate.m in Sources */,
+				09EB53401C473A0700F5A4B6 /* BtnSortViewController.m in Sources */,
+				09EB53441C473C2F00F5A4B6 /* UIView+LBExtension.m in Sources */,
+				09F194BE1C46400C00173C88 /* CodeImgBtnViewController.m in Sources */,
 				09F194851C4631B100173C88 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -498,6 +554,7 @@
 				09F194AF1C4631B100173C88 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		09F194B01C4631B100173C88 /* Build configuration list for PBXNativeTarget "SJButtonDetailTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +563,7 @@
 				09F194B21C4631B100173C88 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		09F194B31C4631B100173C88 /* Build configuration list for PBXNativeTarget "SJButtonDetailUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +572,7 @@
 				09F194B51C4631B100173C88 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
